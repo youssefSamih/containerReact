@@ -59,12 +59,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### to generate Component, Pages or service, hooks
 
-you have first to install create-react-app globali by running this command
-
-```
-npm i -g create-react-app
-```
-
 and you can generate the component, page, service or hook by this command
 
 for component :
