@@ -66,3 +66,33 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### to generate Component, Pages or service, hooks
+
+you have first to install create-react-app globali by running this command
+
+```
+npm i -g create-react-app
+```
+
+and you can generate the component, page, service or hook by this command
+
+for component :
+```
+npm run generate component
+```
+
+for pages :
+```
+npm run generate page
+```
+
+for hooks :
+```
+npm run generate hook
+```
+
+for service :
+```
+npm run generate service
+```
